@@ -1,0 +1,9 @@
+H:\Users\Switch\Documents\Visual Studio 2013\Projects\ExN3\ExN3\bin\Release\ExN3.exe.config
+H:\Users\Switch\Documents\Visual Studio 2013\Projects\ExN3\ExN3\bin\Release\ExN3.exe
+H:\Users\Switch\Documents\Visual Studio 2013\Projects\ExN3\ExN3\bin\Release\ExN3.pdb
+H:\Users\Switch\Documents\Visual Studio 2013\Projects\ExN3\ExN3\obj\Release\ExN3.Form1.resources
+H:\Users\Switch\Documents\Visual Studio 2013\Projects\ExN3\ExN3\obj\Release\ExN3.Properties.Resources.resources
+H:\Users\Switch\Documents\Visual Studio 2013\Projects\ExN3\ExN3\obj\Release\ExN3.csproj.GenerateResource.Cache
+H:\Users\Switch\Documents\Visual Studio 2013\Projects\ExN3\ExN3\obj\Release\ExN3.exe
+H:\Users\Switch\Documents\Visual Studio 2013\Projects\ExN3\ExN3\obj\Release\ExN3.pdb
+H:\Users\Switch\Documents\Visual Studio 2013\Projects\ExN3\ExN3\obj\Release\ExN3.csprojResolveAssemblyReference.cache
