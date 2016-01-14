@@ -28,6 +28,7 @@ namespace ExN3
         // Поиск тега <title> и запись содержимого тега в переменную title.
         void getTitle(string inputString)
         {
+
             try
             {
                 Match m = Regex.Match(inputString, @"<title>\s*(.+?)\s*</title>", RegexOptions.IgnoreCase | RegexOptions.Compiled);
